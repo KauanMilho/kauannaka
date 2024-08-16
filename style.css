@@ -1,0 +1,161 @@
+body {
+    color: red;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(83, 4, 4);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(169, 2, 2);
+}
+
+.chamada {
+    background: rgb(22, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
+.categoria h2 {
+    color: rgb(109, 7, 7);
+}
+
+.M4Music {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.cantor1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.M4Music img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.M4Music img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
+.cantor1 h3 {
+    color: rgb(109, 7, 7);
+}
+
+.ANImusic {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.cantor2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.ANImusic img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.ANImusic img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
+.cantor2 h3 {
+    color: rgb(109, 7, 7);
+}
+
+.SHYmusic {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.cantor3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.SHYmusic img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.SHYmusic img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
+.cantor3 h3 {
+    color: rgb(109, 7, 7);
+}
+
+.PANmusic {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.cantor4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.PANmusic img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.PANmusic img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
+.cantor4 h3 {
+    color: rgb(109, 7, 7);
+}
